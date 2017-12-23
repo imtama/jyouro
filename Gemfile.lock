@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jyouro (0.1.0)
+    jyouro (0.1.2)
       activesupport
 
 GEM
